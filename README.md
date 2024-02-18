@@ -1,6 +1,6 @@
-OSINT NOTES
+---OSINT NOTES---
 
-SOCK PUPPETS:
+  
 The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 Reddit - My process for setting up anonymous sockpuppet accounts - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 Fake Name Generator - https://www.fakenamegenerator.com/
@@ -41,5 +41,23 @@ Destroy the SIM card.
 
 Wipe the phone.
 
+---SEARCH ENGINES---
+    
+Google - https://www.google.com/
+[adv_op_ref.pdf](https://github.com/CYBERMEDIC1/OSINT-Notes/files/14321300/adv_op_ref.pdf)
 
+Google Advanced Search - https://www.google.com/advanced_search
 
+Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
+
+Bing - https://www.bing.com/
+
+Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
+
+Yandex - https://yandex.com/
+
+DuckDuckGo - https://duckduckgo.com/
+
+DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+
+Baidu - http://www.baidu.com/
