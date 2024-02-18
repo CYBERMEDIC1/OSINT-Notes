@@ -41,6 +41,8 @@ Destroy the SIM card.
 
 Wipe the phone.
 
+
+
 ---SEARCH ENGINES---
     
 Google - https://www.google.com/
@@ -53,10 +55,25 @@ Bing - https://www.bing.com/
 
 Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
 
-Yandex - https://yandex.com/
+Yandex - "Google of Russia" - https://yandex.com/
 
 DuckDuckGo - https://duckduckgo.com/
 
 DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
 
-Baidu - http://www.baidu.com/
+Baidu - Chinese search engine - http://www.baidu.com/
+
+
+
+---Reverse Image Searching---
+
+Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-plnoFzcHY7rBh7-3ZYTT?usp=sharing
+
+Google Image Search - https://images.google.com
+
+Yandex - https://yandex.com
+
+TinEye - https://tineye.com
+
+
+
