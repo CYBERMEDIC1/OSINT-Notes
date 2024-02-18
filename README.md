@@ -40,66 +40,73 @@ Destroy the SIM card.
 
 Wipe the phone.
 
-- SEARCH ENGINES
+# SEARCH ENGINES
     
-Google - https://www.google.com/
+- Google  https://www.google.com/
 
-Google Advanced Search - https://www.google.com/advanced_search
+- Google Advanced Search  https://www.google.com/advanced_search
 
-Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
+- Google Search Guide  http://www.googleguide.com/print/adv_op_ref.pdf
 
-Bing - https://www.bing.com/
+- Bing  https://www.bing.com/
 
-Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
+- Bing Search Guide  https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
 
-Yandex - "Google of Russia" - https://yandex.com/
+- Yandex  "Google of Russia"  https://yandex.com/
 
-DuckDuckGo - https://duckduckgo.com/
+- DuckDuckGo  https://duckduckgo.com/
 
-DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+- DuckDuckGo Search Guide  https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
 
-Baidu - Chinese search engine - http://www.baidu.com/
+- Baidu  Chinese search engine  http://www.baidu.com/
 
-- Reverse Image Searching
+# Reverse Image Searching
 
 Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-plnoFzcHY7rBh7-3ZYTT?usp=sharing
 
-Google Image Search - https://images.google.com
+- Google Image Search  https://images.google.com
 
-Yandex -Google of Russia- https://yandex.com
+- Yandex Google of Russia https://yandex.com
 
-TinEye - https://tineye.com
+- TinEye  https://tineye.com
 
-Pimeyes - paid service - https://pimeyes.com/en
+- Pimeyes  paid service - https://pimeyes.com/en
 
-image exif data 
-Jimpl - https://jimpl.com/
--geo location games
-GeoGuessr - https://www.geoguessr.com
+# image exif data 
+- Jimpl https://jimpl.com/
+- geo location games GeoGuessr  https://www.geoguessr.com
 
-GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
--   Discovering Email Addresses
-type in the company name for results on - Hunter.io - https://hunter.io/
+- GeoGuessr  The Top Tips, Tricks and Techniques  https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+# Discovering Email Addresses
+- type in the company name for results on  Hunter.io  https://hunter.io/
 
-Phonebook.cz - https://phonebook.cz/
+- Phonebook.cz  https://phonebook.cz/
 
-VoilaNorbert - https://www.voilanorbert.com/
+- VoilaNorbert  https://www.voilanorbert.com/
 
-Email Hippo - https://tools.verifyemailaddress.io/
+- Email Hippo  https://tools.verifyemailaddress.io/
 
-Email Checker - https://email-checker.net/validate
+- Email Checker  https://email-checker.net/validate
 
-Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+- Clearbit Connect  https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
 
 
-Email enumerations 
+- Email enumerations 
     Google login
         use email
             Forgot password
                 will give more information on another email or phone number
-- Password OSINT
+# Password OSINT
 Breached credentials - Dehashed - https://dehashed.com/ (cost money)
+- WeLeakInfo  https://weleakinfo.to/v2/
 
+- LeakCheck  https://leakcheck.io/
+
+- SnusBase  https://snusbase.com/
+
+- Scylla.sh  https://scylla.sh/
+
+- HaveIBeenPwned  https://haveibeenpwned.com/
 
 
 
