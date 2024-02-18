@@ -1,6 +1,7 @@
 ---OSINT NOTES---
-
-  
+-
+-
+-
 The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 Reddit - My process for setting up anonymous sockpuppet accounts - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 Fake Name Generator - https://www.fakenamegenerator.com/
@@ -40,9 +41,9 @@ Make sure everything works!
 Destroy the SIM card.
 
 Wipe the phone.
-
-
-
+-
+-
+-
 ---SEARCH ENGINES---
     
 Google - https://www.google.com/
@@ -62,9 +63,9 @@ DuckDuckGo - https://duckduckgo.com/
 DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
 
 Baidu - Chinese search engine - http://www.baidu.com/
-
-
-
+-
+-
+-
 ---Reverse Image Searching---
 
 Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-plnoFzcHY7rBh7-3ZYTT?usp=sharing
