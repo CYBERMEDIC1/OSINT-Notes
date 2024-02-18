@@ -71,7 +71,7 @@ Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-
 
 Google Image Search - https://images.google.com
 
-Yandex - https://yandex.com
+Yandex -Google of Russia- https://yandex.com
 
 TinEye - https://tineye.com
 
