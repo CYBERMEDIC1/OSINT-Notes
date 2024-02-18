@@ -44,7 +44,6 @@ Wipe the phone.
 ---SEARCH ENGINES---
     
 Google - https://www.google.com/
-[adv_op_ref.pdf](https://github.com/CYBERMEDIC1/OSINT-Notes/files/14321300/adv_op_ref.pdf)
 
 Google Advanced Search - https://www.google.com/advanced_search
 
