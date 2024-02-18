@@ -71,11 +71,11 @@ Yandex -Google of Russia- https://yandex.com
 TinEye - https://tineye.com
 
 Pimeyes - paid service - https://pimeyes.com/en
--
-- image exif data 
+
+image exif data 
 Jimpl - https://jimpl.com/
-- geo location games
--    GeoGuessr - https://www.geoguessr.com
+-geo location games
+GeoGuessr - https://www.geoguessr.com
 
 GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
 -   Discovering Email Addresses
