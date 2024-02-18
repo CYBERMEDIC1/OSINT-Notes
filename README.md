@@ -74,18 +74,10 @@ Pimeyes - paid service - https://pimeyes.com/en
 -
 - image exif data 
 Jimpl - https://jimpl.com/
-
--
--
-
 - geo location games
 -    GeoGuessr - https://www.geoguessr.com
 
 GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
-
--
--
--
 -   Discovering Email Addresses
 type in the company name for results on - Hunter.io - https://hunter.io/
 
@@ -105,11 +97,7 @@ Email enumerations
         use email
             Forgot password
                 will give more information on another email or phone number
--
--
--
 - Password OSINT
--
 Breached credentials - Dehashed - https://dehashed.com/ (cost money)
 
 
