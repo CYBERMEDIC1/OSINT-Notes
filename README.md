@@ -1,4 +1,5 @@
 # OSINT NOTES
+# Rule 1 use a VM or a dedicated device
 
 - The Art Of The Sock  https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 - Reddit  My process for setting up anonymous sockpuppet accounts - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
