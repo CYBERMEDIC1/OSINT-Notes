@@ -92,10 +92,10 @@ Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-
 
 
 - Email enumerations 
-    Google login
-        use email
-            Forgot password
-                will give more information on another email or phone number
+    -Google login
+        -use email
+            -Forgot password
+                -will give more information on another email or phone number
 # Password OSINT
 Breached credentials - Dehashed - https://dehashed.com/ (cost money)
 - WeLeakInfo  https://weleakinfo.to/v2/
