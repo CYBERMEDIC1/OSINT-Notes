@@ -164,4 +164,14 @@ Voter Records https://www.voterrecords.com
 - OSINT Tool Collection: https://github.com/rmdir-rp/OSINT-twitter-tools (OLD TOOLS)
 - 
  #  Facebook OSINT
-- 
+- Sowdust Github  https://sowsearch.info
+
+- IntelligenceX Facebook Search  https://intelx.io/tools?tab=facebook
+![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/2bd201c8-a2d0-42d4-88e1-78107fba89c2)
+
+![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/6b2ee2ae-917c-454c-be5d-9f43bbf6ead1)
+
+# Instagram OSINT
+
+
+
