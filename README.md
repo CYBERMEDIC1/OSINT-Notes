@@ -93,7 +93,7 @@ Course photos + challenges: https://drive.google.com/drive/folders/1xMADgUUoJ0A-
 
 
 - Email enumerations 
-    -Google login
+    -EMAIL login
         -use email
             -Forgot password
                 -will give more information on another email or phone number
@@ -105,16 +105,56 @@ Breached credentials - Dehashed - https://dehashed.com/ (cost money)
 
 - SnusBase  https://snusbase.com/
 
-- Scylla.sh  https://scylla.sh/
+- Scylla.sh  https://scylla.sh/ (DOWN)
 
 - HaveIBeenPwned  https://haveibeenpwned.com/
 
 
+#   Hunting Usernames and Accounts
 
+- NameChk  https://namechk.com/
+- 
+- WhatsMyName  https://whatsmyname.app/
 
-
+- NameCheckup  https://namecheckup.com/
             
+#   Searching for People
+- WhitePages  https://www.whitepages.com/
+
+- TruePeopleSearch  https://www.truepeoplesearch.com/
+
+- FastPeopleSearch https://www.fastpeoplesearch.com/
+
+- FastBackgroundCheck  https://www.fastbackgroundcheck.com/
+
+- WebMii  https://webmii.com/
+
+- PeekYou https://peekyou.com/
+
+- 411 https://www.411.com/
+
+- Spokeo https://www.spokeo.com/
+
+- That'sThem https://thatsthem.com/
+
+#   Voter Records
+
+Voter Records https://www.voterrecords.com
+
+# Hunting Phone Numbers
+
+- TrueCaller https://www.truecaller.com/
+
+- CallerID Test  https://calleridtest.com/
+
+- Infobel  https://infobel.com/
 
 
+# Twitter OSINT
+- Twitter Advanced Search  https://twitter.com/search-advanced
+- ![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/ef622013-89b4-44a7-a2b1-3d9733c39218)
 
+![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/3cf6cc5c-d29f-4909-aed3-3abe6f91b8ec)
+- geocode:344.0207305,-118.567657,10km
 
+- 
