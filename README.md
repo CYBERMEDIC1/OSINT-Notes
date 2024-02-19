@@ -152,9 +152,16 @@ Voter Records https://www.voterrecords.com
 
 # Twitter OSINT
 - Twitter Advanced Search  https://twitter.com/search-advanced
-- ![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/ef622013-89b4-44a7-a2b1-3d9733c39218)
+
+- gather geo location for search in twitter
+![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/ef622013-89b4-44a7-a2b1-3d9733c39218)
 
 ![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/3cf6cc5c-d29f-4909-aed3-3abe6f91b8ec)
-- geocode:344.0207305,-118.567657,10km
+- geocode:344.0207305,-118.567657,10km (example)
+![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/fe7e324d-62bf-4d92-922d-0da6c5083ab3)
 
+
+- OSINT Tool Collection: https://github.com/rmdir-rp/OSINT-twitter-tools (OLD TOOLS)
+- 
+ #  Facebook OSINT
 - 
