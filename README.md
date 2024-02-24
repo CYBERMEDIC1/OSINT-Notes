@@ -172,6 +172,8 @@ Voter Records https://www.voterrecords.com
 ![image](https://github.com/CYBERMEDIC1/OSINT-Notes/assets/125709529/6b2ee2ae-917c-454c-be5d-9f43bbf6ead1)
 
 # Instagram OSINT
+ImgInn - https://imginn.com/
+For the profile ID, right click and click "View page source". Then search for "profilePage_"
 
-
-
+# snapchat
+Snapchat Maps - https://map.snapchat.com
