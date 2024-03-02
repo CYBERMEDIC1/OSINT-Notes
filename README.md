@@ -1,6 +1,6 @@
 # OSINT NOTES
 # Rule 1 use a VM or a dedicated device
-
+# consider installing pimp my kali
 - The Art Of The Sock  https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 - Reddit  My process for setting up anonymous sockpuppet accounts - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 - Fake Name Generator  https://www.fakenamegenerator.com/
@@ -177,3 +177,46 @@ For the profile ID, right click and click "View page source". Then search for "p
 
 # snapchat
 Snapchat Maps - https://map.snapchat.com
+
+
+#   Hunting Emails and Breached Data
+- Dehashed API Tool: https://github.com/hmaverickadams/DeHashed-API-Tool
+
+# username and accounts
+- sherlock
+- whatsmyname.app
+
+#   Phone Number OSINT
+- phoneinfoga scan -n 12148675309
+- phoneinfoga serve -p 8080
+
+  Social Media OSINT
+- github tools!
+
+ # Frameworks
+- recon ng
+- maltego
+- Hunchly  https://hunch.ly
+
+
+#   Website OSINT Tools
+- whois CLI
+whois tcm-sec.com
+subfinder -d tcm-sec.com
+assetfinder tcm-sec.com
+amass enum -d tcm-sec.com
+cat tesla.txt | sort -u | httprobe -s -p https:443
+gowitness file -f ./alive.txt -P ./pics --no-http
+
+- Subfinder https://github.com/projectdiscovery/subfinder
+subdomains
+- Assetfinder  https://github.com/tomnomnom/assetfinder
+subdomains, will show more info. good for wild card domains
+good to grep fruits such as dev,adm,vpn,admin,stage
+- httprobe  https://github.com/tomnomnom/httprobe
+all domains that are alivev
+
+- Amass  https://github.com/OWASP/Amass
+- GoWitness  https://github.com/sensepost/gowitness/wiki/Installation
+takes pictures of all the domains
+  
